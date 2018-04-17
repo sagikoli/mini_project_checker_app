@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1026404852568",
+    "firebase_url": "https://miniprojectfirebase-10ec3.firebaseio.com",
+    "project_id": "miniprojectfirebase-10ec3",
+    "storage_bucket": "miniprojectfirebase-10ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026404852568:android:2390bbd40de10bc4",
+        "android_client_info": {
+          "package_name": "com.example.sagik.mini_project_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026404852568-66ip3k3dl04tncdbikkg6rai6ntg6iv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagik.mini_project_firebase",
+            "certificate_hash": "cdeb447bac0d4b36540c960fdfcf77276aabdbd1"
+          }
+        },
+        {
+          "client_id": "1026404852568-to1aqohm8k2467s49la26q7aahe4oq33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ua-ANsQR-dBnLRiRcOoMK59iytUJROU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026404852568-to1aqohm8k2467s49la26q7aahe4oq33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026404852568:android:3ae50d594220e4e6",
+        "android_client_info": {
+          "package_name": "com.example.sagik.mini_project_firebase_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026404852568-3m02e9l00d1cokiovkvk0q4p0pk35s6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagik.mini_project_firebase_checker",
+            "certificate_hash": "cdeb447bac0d4b36540c960fdfcf77276aabdbd1"
+          }
+        },
+        {
+          "client_id": "1026404852568-to1aqohm8k2467s49la26q7aahe4oq33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ua-ANsQR-dBnLRiRcOoMK59iytUJROU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026404852568-to1aqohm8k2467s49la26q7aahe4oq33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
